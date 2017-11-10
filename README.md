@@ -1,4 +1,4 @@
-# Experiencia 26 - Actividad Presencial I
+# Experiencia 26 - Actividad Presencial II
 ## Día de proyectos.
 
 ###### Para realizar esta actividad debes haber visto los videos correspondientes a la semana 26.
